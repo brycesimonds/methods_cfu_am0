@@ -14,7 +14,7 @@ end
 def custom_greeting (name1)
   puts "Hello" +name1
 end
-NOT DONE YET SDLJFS:DJFDKLS:JFLK:SDFJ
+
 custom_greeting(John)
 
 # What is the return value of your method?
